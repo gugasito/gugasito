@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/gugasito">
-    <img alt="Open to software opportunities" src="https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20OPPORTUNITIES-0F9F87?style=for-the-badge&labelColor=14213D">
-  </a>
   <img alt="Based in Temuco, Chile" src="https://img.shields.io/badge/BASED%20IN-TEMUCO%2C%20CHILE-2563EB?style=for-the-badge&labelColor=14213D">
 </p>
 
